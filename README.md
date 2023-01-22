@@ -1,2 +1,2 @@
 # Test
-Example Git Project
+An example to show basic git usage.
